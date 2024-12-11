@@ -9,7 +9,7 @@ import sklearn
 sns.set()
 
 #Load Data
-filepath=r'C:\Users\Wan Qi\Desktop\2024\05 l Data Science Projects\MY Property\NAPIC Selected Data.csv'
+filepath=r'C:\Users\Desktop\2024\NAPIC Selected Data.csv'
 df=pd.read_csv(filepath)
 
 #Clean Data
