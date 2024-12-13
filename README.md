@@ -84,7 +84,7 @@ Using historical transaction data, a linear regression model was built to predic
 2. **Confidence Interval**: Calculate a range within which the true price is likely to fall with 90% confidence.
 3. **Prediction**: Estimate the price for a property with 1,711 square feet.
 
-[PythonCodePart2](PythonCodePart2.py)
+[PythonCodePart2](PythonCodePart2)
 
 ### Results
 
