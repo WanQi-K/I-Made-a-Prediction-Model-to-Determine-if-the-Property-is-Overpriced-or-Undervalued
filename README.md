@@ -106,5 +106,3 @@ By leveraging predictive analytics, buyers can make informed decisions, ensuring
 # What’s Next?
 
 This analysis demonstrates how data can guide smarter property decisions. Whether you're considering a home or an investment, grounding your decisions in data reduces risks of overpaying or undervaluing potential opportunities.
-
-As we continue this series, the next phase will focus on feature analysis to identify key determinants of property prices. Stay tuned, and feel free to share your thoughts or suggestions below!
